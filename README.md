@@ -1,6 +1,6 @@
 # Arduino_GFX
 
-Arduino_GFX is a Arduino graphics library supporting various displays with various data bus interfaces.
+Arduino_GFX for ESP32-S3 and 4" RGB touch screen is a Arduino graphics library supporting various displays with various data bus interfaces.
 
 This library start rewrite from Adafruit_GFX, LovyanGFX, TFT_eSPI, Ucglib, and more...
 
